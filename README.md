@@ -3,7 +3,7 @@
 ## I'm a Developer and a design lover
 
 - 🌱 I'm currently in apprenticeship training between [CIS - Integrated Life Support Services](https://cis-integratedservices.com/fr) and [Epitech](https://www.epitech.eu/).  
-- 🎓 I graduated in Graphic Design and worked as a creative person for 5+ years (for print supports' sake).
+- 🎓 I graduated in Graphic Design and worked for the creative industry for 5+ years (for print supports' sake).
 
 ### Relationship status
 
@@ -19,7 +19,7 @@
 3. I sometimes draw traditional indian ink illustrations
 
 ## Toolbox
-<table border="0">
+<table style="border: 0px">
     <tr>
         <td valign="center"><img alt="Figma" width="20px" src="https://github.com/jessiichat/about-me/blob/61c7344dc0cbf84d79fe3a7893b80fb05d73ef4c/assets/technologies/figma.svg" /></td>
         <td valign="center"><img alt="HTML 5" width="26px" src="https://github.com/jessiichat/about-me/blob/61c7344dc0cbf84d79fe3a7893b80fb05d73ef4c/assets/technologies/html-5.svg" /></td>
@@ -39,6 +39,6 @@
 
 ## Connect with me
 
-Linkedin
-Instagram
+[<img align="left" alt="Jessica Chapuis | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/jessica-chapuis/)
+[<img align="left" alt="Jessica Chapuis | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.instagram.com/feutreenoir/)
 Website
