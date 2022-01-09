@@ -39,5 +39,5 @@
 
 ## Connect with me
 
-[<img align="left" alt="Jessica Chapuis | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/jessica-chapuis/)
-[<img align="left" alt="Jessica Chapuis | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://www.instagram.com/feutreenoir/)
+[Linkedin](https://www.linkedin.com/in/jessica-chapuis/)
+[Instagram](https://www.instagram.com/feutreenoir/)
