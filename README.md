@@ -29,10 +29,10 @@
 <img alt="Vue.js" align="left" width="26px" src="https://github.com/jessiichat/about-me/blob/61c7344dc0cbf84d79fe3a7893b80fb05d73ef4c/assets/technologies/vue.svg" />
 <img alt="Vuetify" align="left" width="26px" src="https://github.com/jessiichat/about-me/blob/61c7344dc0cbf84d79fe3a7893b80fb05d73ef4c/assets/technologies/vuetifyjs.svg" />
 <img alt="Symfony" align="left" width="26px" src="https://github.com/jessiichat/about-me/blob/61c7344dc0cbf84d79fe3a7893b80fb05d73ef4c/assets/technologies/symfony.svg" />
-<img alt="Mysql" align="left" width="26px" src="https://github.com/jessiichat/about-me/blob/61c7344dc0cbf84d79fe3a7893b80fb05d73ef4c/assets/technologies/mysql.svg" />
+<img alt="Mysql" align="left" width="26px" src="https://github.com/jessiichat/about-me/blob/8ac8f51db3e6f23249da6553c7af86f729dfdb4f/assets/technologies/mysql.svg" />
 <img alt="Postgresql" align="left" width="26px" src="https://github.com/jessiichat/about-me/blob/61c7344dc0cbf84d79fe3a7893b80fb05d73ef4c/assets/technologies/postgresql.svg" />
-<img alt="Git" align="left" width="26px" src="https://github.com/jessiichat/about-me/blob/61c7344dc0cbf84d79fe3a7893b80fb05d73ef4c/assets/technologies/git.svg" />
-<img alt="Docker" align="left" width="26px" src="https://github.com/jessiichat/about-me/blob/61c7344dc0cbf84d79fe3a7893b80fb05d73ef4c/assets/technologies/docker.svg" />
+<img alt="Git" align="left" width="26px" src="https://github.com/jessiichat/about-me/blob/8ac8f51db3e6f23249da6553c7af86f729dfdb4f/assets/technologies/git.svg" />
+<img alt="Docker" align="left" width="26px" src="https://github.com/jessiichat/about-me/blob/8ac8f51db3e6f23249da6553c7af86f729dfdb4f/assets/technologies/docker.svg" />
 <br/>
 
 ## Connect with me
