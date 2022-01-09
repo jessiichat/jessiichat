@@ -22,32 +22,36 @@
 
 ### Prototyping
 
-[<img align="left" alt="Figma" width="26px" src="https://raw.githubusercontent.com/jessiichat/about-me/master/assets/technologies/figma.svg?token=GHSAT0AAAAAABQMQI4KI3E5WJ2NL6IU4ZRQYO245RQ" />]
-<!-- ![Figma logo](/assets/technologies/figma.svg?raw=true) -->
+<img alt="Figma" width="26px" src="https://raw.githubusercontent.com/jessiichat/about-me/master/assets/technologies/figma.svg?token=GHSAT0AAAAAABQMQI4KI3E5WJ2NL6IU4ZRQYO245RQ" />
+<br/>
 
 ### Vanilla
 
-![HTML 5 logo](/assets/technologies/html-5.svg?raw=true)
-![CSS 3 logo](/assets/technologies/css-3.svg?raw=true)
-![Javascript logo](/assets/technologies/javascript.svg?raw=true)
-![PHP logo](/assets/technologies/php.svg?raw=true)
+<img alt="HTML 5" width="26px" src="https://raw.githubusercontent.com/jessiichat/about-me/master/assets/technologies/html-5.svg?token=GHSAT0AAAAAABQMQI4LDQSYRMP66QZKFLX2YO247EQ" />
+<img alt="CSS 3" width="26px" src="https://raw.githubusercontent.com/jessiichat/about-me/master/assets/technologies/css-3.svg?token=GHSAT0AAAAAABQMQI4LQGWYIIW7S5IBRCZEYO25ASQ" />
+<img alt="Javascript" width="26px" src="https://raw.githubusercontent.com/jessiichat/about-me/master/assets/technologies/javascript.svg?token=GHSAT0AAAAAABQMQI4LL3NXHI37WG52B22IYO25ATA" />
+<img alt="PHP" width="26px" src="https://raw.githubusercontent.com/jessiichat/about-me/master/assets/technologies/php.svg?token=GHSAT0AAAAAABQMQI4KXVXY5B23NTNVSJBUYO25ATQ" />
+<br/>
 
 ### Frameworks
 
-![Bootstrap logo](/assets/technologies/bootstrap.svg?raw=true)
-![Vue.js logo](/assets/technologies/vue.svg?raw=true)
-![Vuetify logo](/assets/technologies/vuetifyjs.svg?raw=true)
-![Symfony logo](/assets/technologies/symfony.svg?raw=true)
+<img alt="Bootstrap" width="26px" src="https://raw.githubusercontent.com/jessiichat/about-me/master/assets/technologies/bootstrap.svg?token=GHSAT0AAAAAABQMQI4L6672GE2TBTL5QQOOYO25BYQ" />
+<img alt="Vue.js" width="26px" src="https://raw.githubusercontent.com/jessiichat/about-me/master/assets/technologies/vue.svg?token=GHSAT0AAAAAABQMQI4L544KLSB2CSOGXHHCYO25BYQ" />
+<img alt="Vuetify" width="26px" src="https://raw.githubusercontent.com/jessiichat/about-me/master/assets/technologies/vuetifyjs.svg?token=GHSAT0AAAAAABQMQI4LHJGD5E4YMZ2WONZGYO25BZA" />
+<img alt="Symfony" width="26px" src="https://raw.githubusercontent.com/jessiichat/about-me/master/assets/technologies/symfony.svg?token=GHSAT0AAAAAABQMQI4LKCY5JCKRSBSQOA66YO25BZA" />
+<br/>
 
 ### Database
 
-![Mysql logo](/assets/technologies/mysql.svg?raw=true)
-![Postgreslogo](/assets/technologies/postgresql.svg?raw=true)
+<img alt="Mysql" width="26px" src="https://raw.githubusercontent.com/jessiichat/about-me/master/assets/technologies/mysql.svg?token=GHSAT0AAAAAABQMQI4LJ5MH37R67LJK7JXAYO25CNA" />
+<img alt="Postgresql" width="26px" src="https://raw.githubusercontent.com/jessiichat/about-me/master/assets/technologies/postgresql.svg?token=GHSAT0AAAAAABQMQI4LPAUASCE6WWH22GA2YO25CNA" />
+<br/>
 
 ### Collaborative
 
-![Git logo](/assets/technologies/git.svg?raw=true)
-![Docker logo](/assets/technologies/docker.svg?raw=true)
+<img alt="Git" width="26px" src="https://raw.githubusercontent.com/jessiichat/about-me/master/assets/technologies/git.svg?token=GHSAT0AAAAAABQMQI4LTXAAPKYNMJ55SDXUYO25DEA" />
+<img alt="Docker" width="26px" src="https://raw.githubusercontent.com/jessiichat/about-me/master/assets/technologies/docker.svg?token=GHSAT0AAAAAABQMQI4KXYHY2CRRS6PUZJLUYO25DEQ" />
+<br/>
 
 ## Connect with me
 
