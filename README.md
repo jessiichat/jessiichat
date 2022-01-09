@@ -1,4 +1,4 @@
-# Hey I'm Jessica 👋  - but you can call me Jessico or Jessicat.  
+# Hey I'm Jessica 👋  *- but you can call me Jessico or Jessicat* 
 
 ## I'm a Developer and a design lover
 
@@ -21,25 +21,31 @@
 ## Toolbox
 
 ### Prototyping
-![Figma logo](/assets/technologies/figma.svg?raw=true)
+
+[<img align="left" alt="Figma" width="26px" src="https://raw.githubusercontent.com/jessiichat/about-me/master/assets/technologies/figma.svg?token=GHSAT0AAAAAABQMQI4KI3E5WJ2NL6IU4ZRQYO245RQ" />]
+<!-- ![Figma logo](/assets/technologies/figma.svg?raw=true) -->
 
 ### Vanilla
+
 ![HTML 5 logo](/assets/technologies/html-5.svg?raw=true)
 ![CSS 3 logo](/assets/technologies/css-3.svg?raw=true)
 ![Javascript logo](/assets/technologies/javascript.svg?raw=true)
 ![PHP logo](/assets/technologies/php.svg?raw=true)
 
 ### Frameworks
+
 ![Bootstrap logo](/assets/technologies/bootstrap.svg?raw=true)
 ![Vue.js logo](/assets/technologies/vue.svg?raw=true)
-![Vuetify logo](/assets/technologies/vuetify.svg?raw=true)
+![Vuetify logo](/assets/technologies/vuetifyjs.svg?raw=true)
 ![Symfony logo](/assets/technologies/symfony.svg?raw=true)
 
 ### Database
+
 ![Mysql logo](/assets/technologies/mysql.svg?raw=true)
 ![Postgreslogo](/assets/technologies/postgresql.svg?raw=true)
 
 ### Collaborative
+
 ![Git logo](/assets/technologies/git.svg?raw=true)
 ![Docker logo](/assets/technologies/docker.svg?raw=true)
 
