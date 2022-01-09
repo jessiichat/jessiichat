@@ -40,5 +40,4 @@
 ## Connect with me
 
 [<img align="left" alt="Jessica Chapuis | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/jessica-chapuis/)
-[<img align="left" alt="Jessica Chapuis | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.instagram.com/feutreenoir/)
-Website
+[<img align="left" alt="Jessica Chapuis | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://www.instagram.com/feutreenoir/)
