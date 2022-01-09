@@ -19,21 +19,23 @@
 3. I sometimes draw traditional indian ink illustrations
 
 ## Toolbox
-<div align="center">
-    <img alt="Figma" width="20px" src="https://github.com/jessiichat/about-me/blob/61c7344dc0cbf84d79fe3a7893b80fb05d73ef4c/assets/technologies/figma.svg" />
-    <img alt="HTML 5" width="26px" src="https://github.com/jessiichat/about-me/blob/61c7344dc0cbf84d79fe3a7893b80fb05d73ef4c/assets/technologies/html-5.svg" />
-    <img alt="CSS 3" width="26px" src="https://github.com/jessiichat/about-me/blob/61c7344dc0cbf84d79fe3a7893b80fb05d73ef4c/assets/technologies/css-3.svg" />
-    <img alt="Javascript" width="26px" src="https://github.com/jessiichat/about-me/blob/61c7344dc0cbf84d79fe3a7893b80fb05d73ef4c/assets/technologies/javascript.svg" />
-    <img alt="PHP" width="26px" src="https://github.com/jessiichat/about-me/blob/61c7344dc0cbf84d79fe3a7893b80fb05d73ef4c/assets/technologies/php.svg" />
-    <img alt="Bootstrap" width="26px" src="https://github.com/jessiichat/about-me/blob/61c7344dc0cbf84d79fe3a7893b80fb05d73ef4c/assets/technologies/bootstrap.svg" />
-    <img alt="Vue.js" width="26px" src="https://github.com/jessiichat/about-me/blob/61c7344dc0cbf84d79fe3a7893b80fb05d73ef4c/assets/technologies/vue.svg" />
-    <img alt="Vuetify" width="26px" src="https://github.com/jessiichat/about-me/blob/61c7344dc0cbf84d79fe3a7893b80fb05d73ef4c/assets/technologies/vuetifyjs.svg" />
-    <img alt="Symfony" width="26px" src="https://github.com/jessiichat/about-me/blob/61c7344dc0cbf84d79fe3a7893b80fb05d73ef4c/assets/technologies/symfony.svg" />
-    <img alt="Mysql" width="26px" src="https://github.com/jessiichat/about-me/blob/0257e402b8167c5a6bc2f2446aba114ec08898d8/assets/technologies/mysql.svg" />
-    <img alt="Postgresql" width="26px" src="https://github.com/jessiichat/about-me/blob/61c7344dc0cbf84d79fe3a7893b80fb05d73ef4c/assets/technologies/postgresql.svg" />
-    <img alt="Git" width="26px" src="https://github.com/jessiichat/about-me/blob/8ac8f51db3e6f23249da6553c7af86f729dfdb4f/assets/technologies/git.svg" />
-    <img alt="Docker" width="26px" src="https://github.com/jessiichat/about-me/blob/8ac8f51db3e6f23249da6553c7af86f729dfdb4f/assets/technologies/docker.svg" />
-</div>
+<table>
+    <tr>
+        <td valign="top"><img alt="Figma" width="20px" src="https://github.com/jessiichat/about-me/blob/61c7344dc0cbf84d79fe3a7893b80fb05d73ef4c/assets/technologies/figma.svg" /></td>
+        <td valign="top"><img alt="HTML 5" width="26px" src="https://github.com/jessiichat/about-me/blob/61c7344dc0cbf84d79fe3a7893b80fb05d73ef4c/assets/technologies/html-5.svg" /></td>
+        <td valign="top"><img alt="CSS 3" width="26px" src="https://github.com/jessiichat/about-me/blob/61c7344dc0cbf84d79fe3a7893b80fb05d73ef4c/assets/technologies/css-3.svg" /></td>
+        <td valign="top"><img alt="Javascript" width="26px" src="https://github.com/jessiichat/about-me/blob/61c7344dc0cbf84d79fe3a7893b80fb05d73ef4c/assets/technologies/javascript.svg" /></td>
+        <td valign="top"><img alt="PHP" width="26px" src="https://github.com/jessiichat/about-me/blob/61c7344dc0cbf84d79fe3a7893b80fb05d73ef4c/assets/technologies/php.svg" /></td>
+        <td valign="top"><img alt="Bootstrap" width="26px" src="https://github.com/jessiichat/about-me/blob/61c7344dc0cbf84d79fe3a7893b80fb05d73ef4c/assets/technologies/bootstrap.svg" /></td>
+        <td valign="top"><img alt="Vue.js" width="26px" src="https://github.com/jessiichat/about-me/blob/61c7344dc0cbf84d79fe3a7893b80fb05d73ef4c/assets/technologies/vue.svg" /></td>
+        <td valign="top"><img alt="Vuetify" width="26px" src="https://github.com/jessiichat/about-me/blob/61c7344dc0cbf84d79fe3a7893b80fb05d73ef4c/assets/technologies/vuetifyjs.svg" /></td>
+        <td valign="top"><img alt="Symfony" width="26px" src="https://github.com/jessiichat/about-me/blob/61c7344dc0cbf84d79fe3a7893b80fb05d73ef4c/assets/technologies/symfony.svg" /></td>
+        <td valign="top"><img alt="Mysql" width="26px" src="https://github.com/jessiichat/about-me/blob/0257e402b8167c5a6bc2f2446aba114ec08898d8/assets/technologies/mysql.svg" /></td>
+        <td valign="top"><img alt="Postgresql" width="26px" src="https://github.com/jessiichat/about-me/blob/61c7344dc0cbf84d79fe3a7893b80fb05d73ef4c/assets/technologies/postgresql.svg" /></td>
+        <td valign="top"><img alt="Git" width="26px" src="https://github.com/jessiichat/about-me/blob/8ac8f51db3e6f23249da6553c7af86f729dfdb4f/assets/technologies/git.svg" /></td>
+        <td valign="top"><img alt="Docker" width="26px" src="https://github.com/jessiichat/about-me/blob/8ac8f51db3e6f23249da6553c7af86f729dfdb4f/assets/technologies/docker.svg" /></td>
+    </tr>
+</table>
 
 ## Connect with me
 
