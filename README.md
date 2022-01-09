@@ -19,7 +19,7 @@
 3. I sometimes draw traditional indian ink illustrations
 
 ## Toolbox
-![HTML 4 logo](https://github.com/jessiichat/about-me/assets/technologies/html-5.svg?raw=true)
+![HTML 4 logo](/assets/technologies/html-5.svg?raw=true)
 
 
 ## Connect with me
